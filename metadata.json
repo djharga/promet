@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Prompt Generator",
+  "description": "An advanced web application for generating high-quality, detailed prompts for AI image generation models. It features a user-friendly interface with options for art style, color, lighting, and more, with support for both English and Arabic.",
+  "requestFramePermissions": []
+}
